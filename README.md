@@ -1,7 +1,7 @@
 # python-subdomain-generator
 
 
-The Subdomain Generator is a Python script that uses Sublist3r to enumerate subdomains for a given domain name, using a list of seed subdomains and keywords to generate potential subdomains. The script generates a list of potential subdomains using permutations of the seed subdomains and keywords, and then passes this list to Sublist3r to enumerate any additional subdomains that are not already included in the list.
+The Subdomain Generator is a Python script that uses Sublist3r to enumerate subdomains for a given domain name, using a list of user-provided seed subdomains and keywords to generate potential subdomains. The script generates a list of potential subdomains using permutations of the seed subdomains and keywords, and then passes this list to Sublist3r to enumerate any additional subdomains that are not already included in the list.
 Installation
 
 Before using the script, you will need to install Python 3 and Sublist3r. Here's how to install the dependencies:
