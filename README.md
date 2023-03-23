@@ -7,17 +7,6 @@ Installation
 Before using the script, you will need to install Python 3 and Sublist3r. Here's how to install the dependencies:
 Python 3
 
-### Installing Python 3
-To install Python 3, go to the Python website and download the appropriate version for your operating system. Follow the installation instructions provided by the installer.
-
-### Installing Sublist3r
-
-To install Sublist3r, you can use the following command:
-
-**pip install sublist3r**
-
-This will install Sublist3r and its dependencies.
-
 ### Usage
 
 To use the Subdomain Enumerator, follow these steps:
